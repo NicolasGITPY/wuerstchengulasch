@@ -1,0 +1,5 @@
+"___"
+essay = "s"
+"___"->"s__":
+    pos of letter, letter, check if letter is more than once in answer
+    -> [1,2,3,1,2,4](give each letter a number)
